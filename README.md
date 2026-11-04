@@ -1,3 +1,7 @@
+# This project has moved
+
+The Mindful Reentry companion is now part of [Next Move](https://github.com/aimiwamy03/next-move-app/tree/main/companion) (1st Place, Hack for Social Good), and this repository is kept read-only for reference.
+
 # Mindful Reentry Conversation Demo
 
 A browser-based, iMessage-style companion for a fictional participant returning to society. Every inbound chat turn is planned by a local Ollama model using conversation history, checklist state, accepted memories, and the reviewed resource catalog.
